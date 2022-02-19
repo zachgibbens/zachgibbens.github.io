@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<channel><title>Test</title><link>https://zachgibbens.github.io//index.html</link>
-<description>Testing</description><language>en</language>
-<lastBuildDate>Sat, 19 Feb 2022 06:17:32 -0400</lastBuildDate>
-<pubDate>Sat, 19 Feb 2022 06:17:32 -0400</pubDate>
+<channel><title>Zach Gibbens</title><link>https://zachgibbens.github.io//index.html</link>
+<description>Git Blog</description><language>en</language>
+<lastBuildDate>Sat, 19 Feb 2022 06:42:31 -0400</lastBuildDate>
+<pubDate>Sat, 19 Feb 2022 06:42:31 -0400</pubDate>
 <atom:link href="https://zachgibbens.github.io//feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Test
@@ -12,7 +12,6 @@ Test
 <p>The rest of the text file is a <strong>Markdown</strong> blog post. The process will continue
 as soon as you exit your editor.</p>
 
-<p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_beware-with-underscores-in-markdown.html'>beware-with-underscores-in-markdown</a>, <a href='tag_example.html'>example</a></p>
 <!-- text end -->
 ]]></description><link>https://zachgibbens.github.io//test.html</link>
 <guid>https://zachgibbens.github.io//./test.html</guid>
