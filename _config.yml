@@ -99,17 +99,27 @@ content:
         link: splunk.com
         # link_text: boringcompany.com
         sub_title: Technical Operations Pre-Check Agent
-        caption: November 2017 - Present
+        caption: September 2020 - October 2022
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
  #           Every company needs its networks properly administered and The Boring Compay is no exception. 
       - layout: left
+        title: Mars Wrigley Inc
+        link: mars.com
+        #link_text: yanfeng.com
+        sub_title: Production Assistant
+        caption: July 2019 - August 2020
+#        quote: >
+#          Solving 21st century problems by diging holes and making game changing products like the *not >
+        description: | # this will include new lines to allow paragraphs
+#            Every company needs its networks properly administered and The Boring Compay is no exception>
+      - layout: left
         title: Yanfeng Automotive Interiors
         link: https://www.yanfeng.com/en
         link_text: yanfeng.com
         sub_title: End of Line Inspector & Quality Technician
-        caption: November 2017 - Present
+        caption: November 2018 - March 2020
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
