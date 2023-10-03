@@ -76,45 +76,44 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Intelcom
+        link: intelcom.ca
         # link_text: boringcompany.com
         sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        caption: September 2021 - September 2023
+#        quote: >
+#          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. 
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Splunk (Contractor)
+        link: splunk.com
         # link_text: boringcompany.com
         sub_title: Senior Network System Administrator
         caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+#        quote: >
+#          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. 
+ #           Every company needs its networks properly administered and The Boring Compay is no exception. 
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Yanfeng Automotive Interiors
+        link: https://www.yanfeng.com/en
         # link_text: boringcompany.com
         sub_title: Senior Network System Administrator
         caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+#        quote: >
+#          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. 
+#            Every company needs its networks properly administered and The Boring Compay is no exception. 
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Voiceopia
+        link: https://www.voiceopia.com/
         # link_text: boringcompany.com
         sub_title: Senior Network System Administrator
         caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+#        quote: >
+#          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. 
+#            Every company needs its networks properly administered and The Boring Compay is no exception. 
       - layout: left
         title: The Boring Company
         link: boringcompany.com
