@@ -77,10 +77,19 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Executive Avaition
+        link: https://www.executiveaviation.ca/
+        link_text: executiveaviation.ca
+        sub_title: Customer Service Agent & Customer Service Lead
+        caption: October 2022 - Present
+#        quote: >
+#          Solving 21st century problems by diging holes and making game changing products like the *not >
+        description: | # this will include new lines to allow paragraphs
+      - layout: left
         title: Intelcom
         link: intelcom.ca
-        # link_text: boringcompany.com
-        #sub_title: Senior Network System Administrator
+        #link_text: boringcompany.com
+        sub_title: Customer Service Representative & Package Handler
         caption: September 2021 - September 2023
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -89,7 +98,7 @@ content:
         title: Splunk (Contractor)
         link: splunk.com
         # link_text: boringcompany.com
-        #sub_title: Senior Network System Administrator
+        sub_title: Technical Operations Pre-Check Agent
         caption: November 2017 - Present
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -99,7 +108,7 @@ content:
         title: Yanfeng Automotive Interiors
         link: https://www.yanfeng.com/en
         link_text: yanfeng.com
-        #sub_title: Senior Network System Administrator
+        sub_title: End of Line Inspector & Quality Technician
         caption: November 2017 - Present
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -108,9 +117,9 @@ content:
       - layout: left
         title: Voiceopia
         link: https://www.voiceopia.com/
-        # link_text: boringcompany.com
-        #sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        link_text: voiceopia.com
+        sub_title: VoIP Technician
+        caption: July 2014 to May 2015
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
