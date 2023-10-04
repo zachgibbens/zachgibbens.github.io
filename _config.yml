@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: zachgibbens/zachgibbens.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -10,7 +10,7 @@ name: Zachariah Gibbens
 title: Network System Administrator
 email: zach@gibbens.dev
 website: https://zach.gibbens.dev/
-phone: +1 902 275 8071
+phone: +19022758071
 # Dark Mode (true/false/never)
 darkmode: true
 
