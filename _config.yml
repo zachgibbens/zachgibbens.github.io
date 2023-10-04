@@ -76,7 +76,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Executive Avaition
+        title: Executive Aviation
         link: https://www.executiveaviation.ca/
         link_text: executiveaviation.ca
         sub_title: Customer Service Agent & Customer Service Lead
@@ -93,6 +93,9 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
+          Receive promotion from Package Handler to Customer Service Representative after showing strong hands-on learning skills resulting in being promoted shortly after one year of service
+          Oversee inventory management system impacting more than 20 clients resulting in a strong utilization of IT consulting service to high-level clients needing backend support and troubleshooting
+          Maneuver various computer functions including data entry, reporting of production, and use of internal systems to ensure clients received their parcels within the given due dates
       - layout: left
         title: Splunk (Contractor)
         link: splunk.com
@@ -102,7 +105,11 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
- #           Every company needs its networks properly administered and The Boring Compay is no exception. 
+           Aided stakeholders with the installation, upgrading, and troubleshooting of Splunk system infrastructure resulting in technical support skills towards searching, monitoring, and analyzing machine-generated data
+           Utilized key knowledge of internal Splunk cloud to troubleshoot client issues more quickly while understanding how the interface could be enhanced upon further for team trainings
+           Assisted my teammates in troubleshooting of Splunk interfaces including but not limited to resolving Vault and Python codes, reviewing computer hardware for performance issues, and onboarding new hardware systems
+           Oversaw enhancements on various standard operating procedures including requirements for system administration updates, responses towards Splunk issues needing escalation, and operations-related functions
+           Strong attention to detail and ability to learn new processes towards success resulting in recognition as a Top 3 performer on the team for the ability to solve various technical issues, and supporting of the team
       - layout: left
         title: Mars Wrigley Inc
         link: mars.com
@@ -122,7 +129,10 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-#            Every company needs its networks properly administered and The Boring Compay is no exception. 
+            Served as a key associate in the production department including end of line quality inspection, overall production enhancements increasing efficiency, and reporting various issues to more than 4 Quality Engineers
+            Identified and repaired defects in various parts and products including a 3D stereoscopic camera utilized by Volkswagen requiring various trainings to ensure complete accuracy
+            Helped with onboarding of more than 5 teammates during tenure resulting in supporting retention metrics for the company while helping new professionals’ skills up in their proficiencies
+            Received two internal promotions during tenure due to strong ability to increase operational efficiency metrics while having a strong understanding on methods to troubleshoot expensive and delicate production equipment
       - layout: left
         title: Voiceopia
         link: https://www.voiceopia.com/
@@ -132,8 +142,10 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-#            Every company needs its networks properly administered and The Boring Compay is no exception. 
-
+            Developed many install scripts and virtualization images on multiple cloud platforms resulting in the speed up provisioning and enhancing of new servers impacting all of our clients
+            Implemented repro sip proxy resulting in ensuring various configuration files for clients remain with default settings enhancing the technical support experience for various clients
+            Supported various DNS servers supporting network for clients and for the organization resulting in the improvement of service offerings through various proposed initiatives during my tenure
+            Provided customer support to our clients weekly by providing technical support on the phone, emailing customers with troubleshooting help, and on-site repairs for hardware, VPN, and program issues
   - title: Education & Certification # Title for the section
     layout: list # Type of content section (list/text)
     content:
