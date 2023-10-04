@@ -9,7 +9,7 @@ version: 2
 name: Zachariah Gibbens
 title: Network System Administrator
 email: zach@gibbens.dev
-website: https://zach.gibbens.dev/
+#website: https://zach.gibbens.dev/
 phone: +19022758071
 # Dark Mode (true/false/never)
 darkmode: true
@@ -30,10 +30,10 @@ linkedin_username: zachgibbens
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: ZachGibbensDev
-  icon: fas fa-globe
-  url: https://zach.gibbens.dev
+#additional_links:
+#- title: ZachGibbensDev
+#  icon: fas fa-globe
+#  url: https://zach.gibbens.dev
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
