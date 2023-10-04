@@ -41,7 +41,7 @@ additional_links:
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
+gtag: " G-GCRYCC60B1"
 # google_analytics: "UA-00000000-0"
 
 # About Section
@@ -49,7 +49,6 @@ additional_links:
 #about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Zachariah and I'm a Quality hands on learner with more than 15+ years’ experience supporting various areas of information technology including open-source enterprise tools, Linux interfaces, inventory management systems, and 3D stereoscopic camera technology. Key experiences in areas of troubleshooting software including Splunk infrastructure and internal cloud structures key for a Linux Systems SRE administrator. High values towards application support with a focus on privacy, security, and navigation of critical infrastructure. Willingness to learn new items including Vault, Python, and items related to system administration. Extensive monitoring system experience for various products with strong collaboration.
-  network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>Linux</mark> and <mark>Eating Pizza</mark>
 
